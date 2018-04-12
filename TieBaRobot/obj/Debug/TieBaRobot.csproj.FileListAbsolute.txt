@@ -1,0 +1,4 @@
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csprojResolveAssemblyReference.cache
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.Properties.Resources.resources
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csproj.GenerateResource.cache
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csproj.CoreCompileInputs.cache
