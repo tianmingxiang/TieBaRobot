@@ -1,4 +1,13 @@
-E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csprojResolveAssemblyReference.cache
 E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.Properties.Resources.resources
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.Winform.SinkTool.resources
 E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csproj.GenerateResource.cache
 E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csproj.CoreCompileInputs.cache
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\bin\Debug\TieBaRobot.exe.config
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\bin\Debug\TieBaRobot.exe
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\bin\Debug\TieBaRobot.pdb
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\bin\Debug\BouncyCastle.Crypto.dll
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\bin\Debug\Newtonsoft.Json.dll
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\bin\Debug\Newtonsoft.Json.xml
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.csproj.CopyComplete
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.exe
+E:\git\TieBaRobot\TieBaRobot\TieBaRobot\obj\Debug\TieBaRobot.pdb

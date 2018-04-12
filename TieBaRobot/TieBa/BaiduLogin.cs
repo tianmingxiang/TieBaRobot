@@ -7,6 +7,8 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Web;
 using Newtonsoft.Json;
+using TieBaRobot.Common;
+using TieBaRobot.Enum;
 
 namespace TieBaRobot.TieBa
 {
@@ -72,7 +74,6 @@ namespace TieBaRobot.TieBa
             var url = string.Format(@"https://passport.baidu.com/v2/api/?getapi&tpl=wise&apiver=v3&tt={0}&class=login&logintype=dialogLogin&callback=bd__cbs__v5pvt1", GetJsTimeSeconds());
 
             cookieContainer.SetCookies(new Uri(url), "BAIDUID=:FG=; HOSUPPORT=");
-            //LogManager.WriteLog(LogFile.Data, url);
             GetHtml(url, ref cookieContainer, "passport.baidu.com");
             return GetHtml(url, ref cookieContainer, "passport.baidu.com");
         }
@@ -134,7 +135,7 @@ namespace TieBaRobot.TieBa
             }
             catch (WebException ex)
             {
-                LogManager.WriteLog(LogFile.Error, ex.ToString());
+                LogManager.Instance.WriteLog(LogFileEnum.error, ex.ToString());
                 return "";
             }
         }
